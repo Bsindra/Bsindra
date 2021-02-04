@@ -7,7 +7,7 @@
 <b> I'm Bryan Sindra, 22 yo, born in Rio de Janeiro and living in Toledo, PR, Brazil. </b>
 
   - 🎓 I'm currently studying: <b> Computer Engineering at UTFPR - Campus Toledo </b>
-  - 🌱 I’m currently learning: <b> Python, Tensorflow, YOLO and C# for Unity</b>
+  - 🌱 I’m currently learning: <b> Python, Tensorflow, OpenCV and C# for Unity</b>
   - 👯 I’m looking to collaborate on: <b> Machine Learning, Computer Vision and/or Game Design </b>
   - 💬 Ask me about <b> C/C++, Hardware and Perypherals </b>
   - 🎨 Other skills: <b> Blender 3D and Adobe Photoshop </b>
