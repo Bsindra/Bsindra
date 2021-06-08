@@ -9,7 +9,6 @@
   - 🎓 I'm currently studying: <b> Computer Engineering at UTFPR - Campus Toledo </b>
   - 🌱 I’m currently learning: <b> FastAPI, Docker and Amazon AWS </b>
   - 👯 I’m looking to collaborate on: <b> Machine Learning, Computer Vision and/or Game Design </b>
-  - 💬 Ask me about <b> C/C++, Hardware and Perypherals </b>
   - 👍 My skills: <b> Python, C/C++, PostgreSQL, MySQL, Docker, OpenAPI </b>
   - 🎨 Other skills: <b> Blender 3D and Adobe Photoshop </b>
   - 📫 How to reach me:
